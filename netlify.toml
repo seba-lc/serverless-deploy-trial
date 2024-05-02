@@ -1,0 +1,2 @@
+[build]
+  functions = "./Documents/PROGRAMACION/netlify-deploy-trial/functions"
